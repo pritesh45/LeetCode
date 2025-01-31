@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pritesh45/LeetCode/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/pritesh45/LeetCode/tree/master/0051-n-queens) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/pritesh45/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
