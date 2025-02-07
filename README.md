@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pritesh45/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/pritesh45/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/pritesh45/LeetCode/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pritesh45/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3651-transformed-array](https://github.com/pritesh45/LeetCode/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pritesh45/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/pritesh45/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/pritesh45/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pritesh45/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pritesh45/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pritesh45/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Simulation
 |  |
 | ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pritesh45/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3651-transformed-array](https://github.com/pritesh45/LeetCode/tree/master/3651-transformed-array) |
 ## String
 |  |
