@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/pritesh45/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pritesh45/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pritesh45/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [3447-clear-digits](https://github.com/pritesh45/LeetCode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -93,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pritesh45/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/pritesh45/LeetCode/tree/master/3447-clear-digits) |
 | [3651-transformed-array](https://github.com/pritesh45/LeetCode/tree/master/3651-transformed-array) |
 ## String
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pritesh45/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/pritesh45/LeetCode/tree/master/3447-clear-digits) |
 ## Counting
 |  |
 | ------- |
