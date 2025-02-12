@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/pritesh45/LeetCode/tree/master/0051-n-queens) |
+| [0287-find-the-duplicate-number](https://github.com/pritesh45/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0403-frog-jump](https://github.com/pritesh45/LeetCode/tree/master/0403-frog-jump) |
 | [1364-tuple-with-same-product](https://github.com/pritesh45/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pritesh45/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -106,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/pritesh45/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pritesh45/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pritesh45/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pritesh45/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pritesh45/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
