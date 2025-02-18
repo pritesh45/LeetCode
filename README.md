@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pritesh45/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/pritesh45/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0403-frog-jump](https://github.com/pritesh45/LeetCode/tree/master/0403-frog-jump) |
+| [0979-di-string-match](https://github.com/pritesh45/LeetCode/tree/master/0979-di-string-match) |
 | [1364-tuple-with-same-product](https://github.com/pritesh45/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pritesh45/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/pritesh45/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0979-di-string-match](https://github.com/pritesh45/LeetCode/tree/master/0979-di-string-match) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pritesh45/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3447-clear-digits](https://github.com/pritesh45/LeetCode/tree/master/3447-clear-digits) |
 ## Counting
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/pritesh45/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/pritesh45/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0979-di-string-match](https://github.com/pritesh45/LeetCode/tree/master/0979-di-string-match) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/pritesh45/LeetCode/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0979-di-string-match](https://github.com/pritesh45/LeetCode/tree/master/0979-di-string-match) |
 <!---LeetCode Topics End-->
