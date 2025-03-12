@@ -12,20 +12,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pritesh45/LeetCode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/pritesh45/LeetCode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/pritesh45/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pritesh45/LeetCode/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/pritesh45/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pritesh45/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pritesh45/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0403-frog-jump](https://github.com/pritesh45/LeetCode/tree/master/0403-frog-jump) |
+| [1013-fibonacci-number](https://github.com/pritesh45/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pritesh45/LeetCode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/pritesh45/LeetCode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
