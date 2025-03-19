@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/pritesh45/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pritesh45/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/pritesh45/LeetCode/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/pritesh45/LeetCode/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/pritesh45/LeetCode/tree/master/0403-frog-jump) |
 | [1013-fibonacci-number](https://github.com/pritesh45/LeetCode/tree/master/1013-fibonacci-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pritesh45/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/pritesh45/LeetCode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/pritesh45/LeetCode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/pritesh45/LeetCode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/pritesh45/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pritesh45/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/pritesh45/LeetCode/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/pritesh45/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/pritesh45/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritesh45/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/pritesh45/LeetCode/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/pritesh45/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pritesh45/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/pritesh45/LeetCode/tree/master/0778-reorganize-string) |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/pritesh45/LeetCode/tree/master/0139-word-break) |
 | [0451-sort-characters-by-frequency](https://github.com/pritesh45/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/pritesh45/LeetCode/tree/master/0778-reorganize-string) |
 | [0979-di-string-match](https://github.com/pritesh45/LeetCode/tree/master/0979-di-string-match) |
@@ -232,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/pritesh45/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/pritesh45/LeetCode/tree/master/0695-max-area-of-island) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/pritesh45/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
