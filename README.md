@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1670-patients-with-a-condition](https://github.com/pritesh45/LeetCode/tree/master/1670-patients-with-a-condition) |
+| [1908-recyclable-and-low-fat-products](https://github.com/pritesh45/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Divide and Conquer
 |  |
 | ------- |
