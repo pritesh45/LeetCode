@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pritesh45/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pritesh45/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/pritesh45/LeetCode/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/pritesh45/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/pritesh45/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/pritesh45/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritesh45/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/pritesh45/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/pritesh45/LeetCode/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/pritesh45/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/pritesh45/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pritesh45/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/pritesh45/LeetCode/tree/master/0768-partition-labels) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pritesh45/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/pritesh45/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pritesh45/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/pritesh45/LeetCode/tree/master/0778-reorganize-string) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/pritesh45/LeetCode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/pritesh45/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritesh45/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pritesh45/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pritesh45/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pritesh45/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritesh45/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pritesh45/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
