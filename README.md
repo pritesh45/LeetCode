@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/pritesh45/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pritesh45/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/pritesh45/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pritesh45/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pritesh45/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pritesh45/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/pritesh45/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/pritesh45/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pritesh45/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -201,12 +203,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/pritesh45/LeetCode/tree/master/0506-relative-ranks) |
 | [0778-reorganize-string](https://github.com/pritesh45/LeetCode/tree/master/0778-reorganize-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pritesh45/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pritesh45/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Greedy
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/pritesh45/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/pritesh45/LeetCode/tree/master/0778-reorganize-string) |
 | [0979-di-string-match](https://github.com/pritesh45/LeetCode/tree/master/0979-di-string-match) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pritesh45/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Database
 |  |
 | ------- |
@@ -278,4 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pritesh45/LeetCode/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pritesh45/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pritesh45/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
