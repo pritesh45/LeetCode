@@ -14,7 +14,7 @@ class Solution {
                 index++;
                 intervals[index]=intervals[i];
             }
-        }
+        }  
         return Arrays.copyOf(intervals,index+1);
     }
 }
