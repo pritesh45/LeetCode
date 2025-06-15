@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pritesh45/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/pritesh45/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/pritesh45/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/pritesh45/LeetCode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/pritesh45/LeetCode/tree/master/0056-merge-intervals) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pritesh45/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/pritesh45/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/pritesh45/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/pritesh45/LeetCode/tree/master/0768-partition-labels) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pritesh45/LeetCode/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/pritesh45/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/pritesh45/LeetCode/tree/master/0778-reorganize-string) |
 | [0979-di-string-match](https://github.com/pritesh45/LeetCode/tree/master/0979-di-string-match) |
