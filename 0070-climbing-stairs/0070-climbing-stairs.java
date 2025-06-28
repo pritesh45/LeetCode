@@ -1,21 +1,25 @@
 class Solution {
-    static int find(int[]dp,int n,int ind){
-        if(ind==n){
+    static int fun(int n, int index,int[] dp) {
+        if (index == n) {
             return 1;
         }
-        if(ind>n){
+        if (index > n) {
             return 0;
         }
-        if(dp[ind]!=-1)
-        return dp[ind];
-        int left=find(dp,n,ind+1);
-        int right=find(dp,n,ind+2);
-        return  dp[ind]=left+right;
+        if(dp[index]!=-1){
+            return dp[index];
+        }
+        int left = fun(n, index + 1,dp);
+        int right = fun(n, index + 2,dp);
+        dp[index]= left + right;
+        return dp[index];
     }
+
     public int climbStairs(int n) {
-        int[] dp=new int[n+1];
-        Arrays.fill(dp,-1);
-        return find(dp,n,0);
-        
+    int[] dp=new int[n+1];
+    Arrays.fill(dp,-1);
+
+        return fun(n, 0,dp);
+
     }
 }
