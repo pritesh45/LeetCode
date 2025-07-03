@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pritesh45/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/pritesh45/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/pritesh45/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/pritesh45/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/pritesh45/LeetCode/tree/master/0051-n-queens) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pritesh45/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/pritesh45/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pritesh45/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Bit Manipulation
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pritesh45/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/pritesh45/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritesh45/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pritesh45/LeetCode/tree/master/0347-top-k-frequent-elements) |
