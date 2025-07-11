@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pritesh45/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/pritesh45/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pritesh45/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/pritesh45/LeetCode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/pritesh45/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pritesh45/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Recursion
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pritesh45/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/pritesh45/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/pritesh45/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/pritesh45/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/pritesh45/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/pritesh45/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritesh45/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pritesh45/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pritesh45/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pritesh45/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/pritesh45/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/pritesh45/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/pritesh45/LeetCode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/pritesh45/LeetCode/tree/master/0908-middle-of-the-linked-list) |
