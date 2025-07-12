@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/pritesh45/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritesh45/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pritesh45/LeetCode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/pritesh45/LeetCode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/pritesh45/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/pritesh45/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/pritesh45/LeetCode/tree/master/0403-frog-jump) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pritesh45/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritesh45/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pritesh45/LeetCode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/pritesh45/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/pritesh45/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pritesh45/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/pritesh45/LeetCode/tree/master/0506-relative-ranks) |
@@ -357,5 +359,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/pritesh45/LeetCode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/pritesh45/LeetCode/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
