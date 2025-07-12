@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pritesh45/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/pritesh45/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/pritesh45/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pritesh45/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pritesh45/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pritesh45/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/pritesh45/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/pritesh45/LeetCode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/pritesh45/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pritesh45/LeetCode/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pritesh45/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pritesh45/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pritesh45/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/pritesh45/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pritesh45/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0768-partition-labels](https://github.com/pritesh45/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/pritesh45/LeetCode/tree/master/0778-reorganize-string) |
