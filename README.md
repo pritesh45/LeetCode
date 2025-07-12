@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pritesh45/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/pritesh45/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pritesh45/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/pritesh45/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pritesh45/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pritesh45/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pritesh45/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/pritesh45/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/pritesh45/LeetCode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/pritesh45/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/pritesh45/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pritesh45/LeetCode/tree/master/0056-merge-intervals) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pritesh45/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/pritesh45/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pritesh45/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pritesh45/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0768-partition-labels](https://github.com/pritesh45/LeetCode/tree/master/0768-partition-labels) |
