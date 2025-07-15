@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/pritesh45/LeetCode/tree/master/0979-di-string-match) |
 | [1238-alphabet-board-path](https://github.com/pritesh45/LeetCode/tree/master/1238-alphabet-board-path) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pritesh45/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3396-valid-word](https://github.com/pritesh45/LeetCode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/pritesh45/LeetCode/tree/master/3447-clear-digits) |
 ## Counting
 |  |
