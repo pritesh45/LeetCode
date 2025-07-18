@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/pritesh45/LeetCode/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/pritesh45/LeetCode/tree/master/0403-frog-jump) |
 | [1013-fibonacci-number](https://github.com/pritesh45/LeetCode/tree/master/1013-fibonacci-number) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/pritesh45/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Memoization
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/pritesh45/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pritesh45/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pritesh45/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/pritesh45/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pritesh45/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pritesh45/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pritesh45/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/pritesh45/LeetCode/tree/master/0506-relative-ranks) |
 | [0778-reorganize-string](https://github.com/pritesh45/LeetCode/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/pritesh45/LeetCode/tree/master/0948-sort-an-array) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/pritesh45/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Bucket Sort
 |  |
 | ------- |
