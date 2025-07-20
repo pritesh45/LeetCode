@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/pritesh45/LeetCode/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/pritesh45/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/pritesh45/LeetCode/tree/master/0695-max-area-of-island) |
+| [0792-binary-search](https://github.com/pritesh45/LeetCode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/pritesh45/LeetCode/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/pritesh45/LeetCode/tree/master/0948-sort-an-array) |
 | [0979-di-string-match](https://github.com/pritesh45/LeetCode/tree/master/0979-di-string-match) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/pritesh45/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/pritesh45/LeetCode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/pritesh45/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/pritesh45/LeetCode/tree/master/0792-binary-search) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pritesh45/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Bit Manipulation
 |  |
