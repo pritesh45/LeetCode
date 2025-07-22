@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/pritesh45/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/pritesh45/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pritesh45/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pritesh45/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pritesh45/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pritesh45/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/pritesh45/LeetCode/tree/master/0768-partition-labels) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pritesh45/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/pritesh45/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/pritesh45/LeetCode/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/pritesh45/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/pritesh45/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/pritesh45/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/pritesh45/LeetCode/tree/master/0778-reorganize-string) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pritesh45/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritesh45/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pritesh45/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pritesh45/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/pritesh45/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/pritesh45/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pritesh45/LeetCode/tree/master/0451-sort-characters-by-frequency) |
