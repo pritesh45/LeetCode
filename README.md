@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/pritesh45/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pritesh45/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pritesh45/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/pritesh45/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3447-clear-digits](https://github.com/pritesh45/LeetCode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/pritesh45/LeetCode/tree/master/0979-di-string-match) |
 | [1238-alphabet-board-path](https://github.com/pritesh45/LeetCode/tree/master/1238-alphabet-board-path) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/pritesh45/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/pritesh45/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pritesh45/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3396-valid-word](https://github.com/pritesh45/LeetCode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/pritesh45/LeetCode/tree/master/3447-clear-digits) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/pritesh45/LeetCode/tree/master/0778-reorganize-string) |
 | [0979-di-string-match](https://github.com/pritesh45/LeetCode/tree/master/0979-di-string-match) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/pritesh45/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/pritesh45/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pritesh45/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pritesh45/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pritesh45/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
