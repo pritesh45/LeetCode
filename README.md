@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pritesh45/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pritesh45/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/pritesh45/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/pritesh45/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/pritesh45/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pritesh45/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pritesh45/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
