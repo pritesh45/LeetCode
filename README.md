@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/pritesh45/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/pritesh45/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pritesh45/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pritesh45/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pritesh45/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pritesh45/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/pritesh45/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/pritesh45/LeetCode/tree/master/0476-number-complement) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pritesh45/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/pritesh45/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pritesh45/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Sorting
 |  |
 | ------- |
@@ -407,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/pritesh45/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pritesh45/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
